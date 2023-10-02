@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### I'm currently working on canine social behaviors!
+#### I'm currently learning to use GitHub to collaborate with some cool people!
+#### Ask me about creating a repository - it's all I know right now! 
+#### Pronouns: she/her
 
 <!--
 **colleenbuckley1/colleenbuckley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
